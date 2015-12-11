@@ -1,2 +1,2 @@
 # Overview
-TBD
+Ubuntu instance with i3 window manager.
